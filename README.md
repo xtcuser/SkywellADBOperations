@@ -1,5 +1,6 @@
 # SkywellADBOperations
 Instructions how you can manage ADB operations in your Skywell ET5
+NOTE: English instructions, instruction images and a how to video is coming soon.
 
 ```
 ███████╗████████╗   ██████╗ 
