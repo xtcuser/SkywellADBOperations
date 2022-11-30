@@ -32,7 +32,7 @@ Skywell ET5 aracımıza uygulama silmek ve yüklemek için ADB (Android Debug Br
 
 #### Adım 2: Bilgisayarı araba ile aynı Wi-Fi ağına bağlamak:
 
-Telefonunuzdan bir kişisel erişim noktası oluşturup hem arabanızı hem de bilgisayarınızı aynı Wi-Fi ağına bağlayınız. Bu noktada Arabanızın IP adresini öğrenmeniz gerekecek. Bunun için araba ayarlarındaki Wi-Fi ayarlarına girin ve bağlı olduğunuz Wi-Fi bağlantısının üzerine tıklayın. Açılan pencerede "192.168.1.34" benzeri bir IP adresi göreceksiniz.
+Telefonunuzdan bir kişisel erişim noktası oluşturup hem arabanızı hem de bilgisayarınızı aynı Wi-Fi ağına bağlayınız. Sonrasında araç ayarlarında bulunan "Bluetooth Araması" kısmına üst üste, "wifi adb opened" uyarısı çıkana kadar dokunun. Bu noktada Arabanızın IP adresini öğrenmeniz gerekecek. Bunun için araba ayarlarındaki Wi-Fi ayarlarına girin ve bağlı olduğunuz Wi-Fi bağlantısının üzerine tıklayın. Açılan pencerede "192.168.1.34" benzeri bir IP adresi göreceksiniz.
 
 #### Adım 3: ADB ile bilgisayarı arabaya bağlamak:
 
